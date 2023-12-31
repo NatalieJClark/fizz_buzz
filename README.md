@@ -1,14 +1,15 @@
-# Test Driving FizzBuzz
+# Test Driving FizzBuzz in Java
 
 ## Introduction
 
 - This is my Test Driving FizzBuzz project for Makers SWE Specialism Module 1 - Learning Java & Its Tools
+- It is a challenge for the module
 
-## Challenge
+## Objectives
+- [x] Learn to test-drive programs in Java using Object Oriented Programming.
 
-Starting from scratch, test-drive an implementation of FizzBuzz that gives you the FizzBuzz value for a single number.
-
-For example:
+Test Driving FizzBuzz in Java Challenge:
+- [x] Starting from scratch, test-drive an implementation of FizzBuzz that gives you the FizzBuzz value for a single number. For example:
 ```
 FizzBuzz fizzBuzz = new FizzBuzz();
 fizzBuzz.forNumber(1);
@@ -21,7 +22,9 @@ fizzBuzz.forNumber(15);
 // => "FizzBuzz"
 ```
 
-## Aims
+## Setup
+```java
+// Run the tests by running FizzBuzzTest.java in IntelliJ
+// The tests can be run individually or as a Class
+```
 
-- [x] Learn to test-drive programs in Java using Object Oriented Programming.
-- [x] Gain coach feedback on my technical skills.
