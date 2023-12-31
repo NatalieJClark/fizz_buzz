@@ -10,7 +10,7 @@
 
 Test Driving FizzBuzz in Java Challenge:
 - [x] Starting from scratch, test-drive an implementation of FizzBuzz that gives you the FizzBuzz value for a single number. For example:
-```
+```java
 FizzBuzz fizzBuzz = new FizzBuzz();
 fizzBuzz.forNumber(1);
 // => "1"
