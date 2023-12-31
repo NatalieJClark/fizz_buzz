@@ -1,4 +1,4 @@
-# Test Driving FizzBuzz in Java
+# Test Driving FizzBuzz In Java
 
 ## Introduction
 
